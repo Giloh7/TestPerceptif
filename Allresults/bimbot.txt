@@ -1,0 +1,17 @@
+bimbot;
+bimbot;
+active song : samples/12/5.mp3;
+syntax : 3;
+attractive : 3;
+active song : samples/16/3.wav;
+syntax : 3;
+attractive : 3;
+active song : samples/62/6.wav;
+syntax : 3;
+attractive : 3;
+active song : samples/68/2.mp3;
+syntax : 3;
+attractive : 3;
+active song : samples/17/4.wav;
+syntax : 2;
+attractive : 3;

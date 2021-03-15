@@ -1,0 +1,20 @@
+
+
+
+Bonjour,
+
+Afin d'évaluer des travaux de recherche menés dans le cadre ma thèse, je vous propose de participer à un rapide test auditif (15 minutes environ).
+
+Vous pouvez accéder au test par ce lien : http://testsserac.gforge.inria.fr/1/
+
+Vous allez avoir à écouter une vingtaine d'extraits audios au format MIDI, et à les évaluer selon 2 critères musicaux qui sont expliqués en début de test.
+
+Vous aurez uniquement besoin de matériel d'écoute standard.
+
+Il se peut que l'interface de test présente quelques défauts graphiques selon la version de votre navigateur ou que l'écoute ne se déclenche pas lorsque vous cliquez et que vous deviez cliquer plusieurs fois. Merci de me le signaler si ça vous posait une difficulté majeure et plus généralement, n'hésitez pas à me contacter en cas de problèmes ou remarques.
+
+Je vous serais très reconnaissant si vous pouviez faire le test d'ici lundi soir (4 février).
+
+Merci d'avance et bonne écoute,
+
+Valentin.

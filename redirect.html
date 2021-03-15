@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Redirection en HTML</title>
+
+<meta http-equiv="refresh" content="0; URL=newAdress">
+</head>
+
+<body>
+</body>
+
+
+</html>
+<html>
+<body>
+
+<p id="one"></p>
+<button onclick="random()">Random</button>
+
+<script>
+ function random(){
+
+document.getElementById("one").innerHTML = Math.floor(Math.random() * 10)+1;
+}
+</script>
+
+</body>
